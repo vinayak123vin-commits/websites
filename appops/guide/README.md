@@ -37,4 +37,7 @@ In general, the higher the system version, the more permission you can modify (m
 
 ### Apps can still check if they have no permission
 
-Apps can check if the returned data is blank or directly check if "appops" is allowed. But there are very few apps do this.
+Apps can check if the returned data is blank or directly check if "appops" is<img width="720" height="1600" alt="1000023567" src="https://github.com/user-attachments/assets/fa777291-eae4-49e3-812d-ca3659035d82" />
+<img width="1196" height="720" alt="1000023561" src="https://github.com/user-attachments/assets/1edfaca8-1bcf-4582-a1c3-2b0584510559" />
+ allowed. But there ar836
+e very few apps do this.
